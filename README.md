@@ -5,6 +5,6 @@ I am crazy about technology and my interests are mainly programming, physics, ma
 Currently I make websites, webapps and anything that I can make to bring an impact.<br><br>
 
 I think this is enough about me.<br>
-I will be adding my future projects on github and host it here and on replit --- so stay tuned!<br><br>
+I will be hosting my future projects on github and on replit --- so stay tuned!<br><br>
 
 You can find me at places with either `leafkn` or `knaagar`
