@@ -1,4 +1,4 @@
-## Hi! This is Leaf.<hr>
+## Hi! This is Leaf.
 I am a programmer who currently know HTML, CSS, Javascript, Python, jQuery, p5js, SASS, SQL, Vue.js etc.<br>
 I am learning C++, React.js, Node.js, Blockchain technology etc.<br>
 I am crazy about technology and my interests are mainly programming, physics, maths and basically everything logical and related to tech.<br>
