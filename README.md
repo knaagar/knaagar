@@ -5,9 +5,9 @@ I am crazy about technology and my interests are mainly programming, physics, ma
 Currently I make websites, webapps and anything that I can make to bring an impact.<br><br>
 
 I think this is enough about me.<br>
-I will be hosting my future projects on github and on replit --- so stay tuned!<br><hr>
+I will be hosting my future projects on github and on replit --- so stay tuned!<br><br>
 
 You can find me at places with either `leafkn` or `knaagar`<br>
 Or direct links:<br>
 [Khan Academy](https://www.khanacademy.org/profile/kaid_481697903688181525808339)<br>
-[Replit](https://replit.com/@leafkn)<hr>
+[Replit](https://replit.com/@leafkn)
