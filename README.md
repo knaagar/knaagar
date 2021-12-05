@@ -1,10 +1,10 @@
 ## Hi! This is Leaf.
-I am a programmer who currently know HTML, CSS, Javascript, Python, jQuery, p5js, SASS, SQL, Vue.js etc.<br>
-I am learning C++, React.js, Node.js, Blockchain technology etc.<br>
-I am crazy about technology and my interests are mainly programming, physics, maths and basically everything logical and related to tech.<br>
-Currently I make websites, webapps and anything that I can make to bring an impact.<br><br>
+I am a programmer who is always learning and developing things.
 
-I think this is enough about me.<br>
-I will be hosting my future projects on github and on replit --- so stay tuned!<br><br>
+I am crazy about technology and my interests are mainly programming, physics, maths and basically everything logical and related to tech.
 
 You can find me at places with either `leafkn` or `knaagar`<br>
+
+![LeafKn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=knaagar&show_icons=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knaagar&theme=github_dark)
