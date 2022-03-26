@@ -15,3 +15,6 @@ You can find me at places with either `leafkn` or `knaagar`<br>
 
 ## Portfolio website
 ### https://knaagar.herokuapp.com/
+
+## Codewars Profile Badge
+[![Profile badge](https://www.codewars.com/users/knaagar/badges/large)](https://www.codewars.com/users/knaagar)
