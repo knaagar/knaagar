@@ -1,7 +1,5 @@
 ## Hi! This is Leaf.
-I am a programmer who is always learning and developing things.
-My interest lies in tech.
-
+Programmer. Techie.
 You can find me at places with either `leafkn` or `knaagar`<br>
 
 ## Basic Stats
